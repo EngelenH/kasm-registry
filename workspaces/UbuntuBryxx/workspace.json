@@ -2,7 +2,7 @@
   "friendly_name": "Ubuntu Bryxx Version",
   "image_src": "UbuntuBryxx.png",
   "description": "Ubuntu Developer Workstation Bryxx",
-  "name": "harbor.osm.systems/bryxx/ubuntu-bryxx:22.04.08",
+  "name": "bryxx/ubuntu-bryxx:22.04.08",
   "cores": 4,
   "memory": 4096,
   "gpu_count": 0,
