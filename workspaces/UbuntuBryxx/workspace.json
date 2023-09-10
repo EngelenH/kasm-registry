@@ -3,8 +3,10 @@
   "docker_registry": "https://harbor.osm.systems/v2/",
   "image_src":"UbuntuBryxx.png",
   "name": "bryxx/UbuntuBryxx:22.04.08",
+  "cores": 4,
+  "memory": 4096,
   "categories": [
-    "Browser"	
+    "Bryxx"
   ],
   "friendly_name": "UbuntuBryxx",
   "architecture": [
