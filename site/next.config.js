@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Hans Engelen Bryxx',
     description: 'Bryxx list of Workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://engelenh.github.io/kasm-registry',
+    listUrl: 'https://engelenh.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
