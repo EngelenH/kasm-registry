@@ -1,6 +1,6 @@
 {
   "friendly_name": "Ubuntu Bryxx Version",
-  "image_src": "blob:https://engelenh.github.io/63c7c426-162b-438c-a549-92808b8c8302",
+  "image_src": "UbuntuBryxx.png",
   "description": "Ubuntu Developer Workstation Bryxx",
   "name": "harbor.osm.systems/bryxx/ubuntu-bryxx:22.04.08",
   "cores": 4,
