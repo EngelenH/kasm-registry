@@ -1,10 +1,10 @@
 {
   "description": "Ubuntu Bryxx",
-  "docker_registry": "https://index.docker.io/v1/",
+  "docker_registry": "https://harbor.osm.systems/v2/",
   "image_src":"UbuntuBryxx.png",
-  "name": "kasmweb/chromium:develop",
+  "name": "bryxx/UbuntuBryxx:22.04.08",
   "categories": [
-    "Browser"
+    "Browser"	
   ],
   "friendly_name": "UbuntuBryxx",
   "architecture": [
