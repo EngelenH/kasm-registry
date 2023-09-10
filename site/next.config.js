@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Hans Engelen Bryxx',
+    description: 'Bryxx list of Workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://engelenh.github.io/kasm-registry',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
